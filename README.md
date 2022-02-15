@@ -1,2 +1,1 @@
-1. Форма поиска на Главной
-2.
+Total spent hours on task: 17 hours
