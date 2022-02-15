@@ -1,0 +1,27 @@
+.button {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+.issueBlock {
+  padding-left: 20px;
+}
+
+.title {
+  margin: 0;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.labelItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.body {
+  display: inline-block;
+  max-width: 1000px;
+}
