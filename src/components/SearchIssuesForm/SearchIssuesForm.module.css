@@ -1,0 +1,12 @@
+.SearchForm {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  background-color: #fff;
+  overflow: hidden;
+}
